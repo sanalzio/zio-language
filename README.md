@@ -1,6 +1,12 @@
 # myLang
 My simple programing language.
 
+# usage
+```
+cd "myLang folder" example: "C:\Users\User\Desktop\myLang\myLang"
+.\myLang "file path" example: "C:\Users\User\Desktop\myLang\example.my"
+```
+
 # commands
 ## echo
 ```
