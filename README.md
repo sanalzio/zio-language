@@ -15,6 +15,9 @@ cd "zio folder" example: "C:\Users\User\Desktop\myLang\myLang"
 .\zio.exe "file path" example: "C:\Users\User\Desktop\myLang\example.zi"
 ```
 
+# example zi file:
+[Go File!](https://github.com/sanalzio/zio-language/blob/master/example.zi)
+
 # commands
 ## echo
 ```
