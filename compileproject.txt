@@ -1,0 +1,1 @@
+C:\Users\User\AppData\Roaming\Python\Python311\Scripts\pyinstaller.exe --icon=icon.ico zio.py
