@@ -1,0 +1,4 @@
+uselib sanalzio/examplelib-zio/master
+system color a
+echo str 1
+echo str 2
