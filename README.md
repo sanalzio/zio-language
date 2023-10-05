@@ -1,6 +1,8 @@
 # zioLang
 My simple programing language.
 
+[!ZioLang](logos/repoimage/ziolang.jpg)
+
 # updates
 - **Added custom keys system in keys/ folder** [Go!](#keys)
 - **Added else key** <a href="#else">Go!</a>
