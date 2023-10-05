@@ -1,7 +1,7 @@
 # zioLang
 My simple programing language.
 
-[!ZioLang](logos/repoimage/ziolang.jpg)
+![ZioLang](logos/repoimage/ziolang.jpg)
 
 # updates
 - **Added custom keys system in keys/ folder** [Go!](#keys)
