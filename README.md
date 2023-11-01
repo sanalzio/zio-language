@@ -31,16 +31,16 @@ echo int ${var}
 ```
 define random $random{1 9}
 define input $inp{}
-if random == input
+if ${random} == ${input}
     echo str True!
-if random != input
+if ${random} != ${input}
     echo str False!
 ```
 ## else
 ```
 define random $random{1 9}
 define input $inp{}
-if random == input
+if ${random} == ${input}
     echo str True!
 else
     echo str False!
